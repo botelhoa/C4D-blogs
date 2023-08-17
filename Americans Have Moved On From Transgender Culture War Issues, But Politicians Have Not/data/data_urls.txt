@@ -1,0 +1,5 @@
+https://storage.googleapis.com/medium_data/Americans%20Have%20Moved%20On%20From%20Transgender%20Culture%20War%20Issues%2C%20But%20Politicians%20Have%20Not/baseline.csv
+https://storage.googleapis.com/medium_data/Americans%20Have%20Moved%20On%20From%20Transgender%20Culture%20War%20Issues%2C%20But%20Politicians%20Have%20Not/data.csv
+https://storage.googleapis.com/medium_data/Americans%20Have%20Moved%20On%20From%20Transgender%20Culture%20War%20Issues%2C%20But%20Politicians%20Have%20Not/data_organic.csv
+https://storage.googleapis.com/medium_data/Americans%20Have%20Moved%20On%20From%20Transgender%20Culture%20War%20Issues%2C%20But%20Politicians%20Have%20Not/data_organic_july.csv
+https://storage.googleapis.com/medium_data/Americans%20Have%20Moved%20On%20From%20Transgender%20Culture%20War%20Issues%2C%20But%20Politicians%20Have%20Not/data_organic_march.csv
