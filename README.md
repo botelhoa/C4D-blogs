@@ -14,5 +14,6 @@ A unified home with public facing data/code for Cybersecurity for Democracy blog
     - The code for this is housed in a separate repo [here](https://github.com/botelhoa/few-shot-classifier)
 - [The Tidal Wave of Small Dollar Fundraising Hits Republican Shores](https://medium.com/cybersecurity-for-democracy/the-tidal-wave-of-small-dollar-fundraising-hits-republican-shores-36f801f5ec4d)
     - FEC data can be collected [here](https://www.fec.gov/data/browse-data/?tab=raising)
-- [Lab Notebook: Can ChatGPT tell us who to trust?]()
+- [Lab Notebook: Can ChatGPT tell us who to trust?](https://medium.com/cybersecurity-for-democracy/lab-notebook-can-gpt-tell-us-who-to-trust-221de694c714)
     - The code for this is housed in a separate repo [here](https://github.com/botelhoa/few-shot-classifier)
+- [Data Wrangling: Missing Engagement Interpolation](https://medium.com/cybersecurity-for-democracy/data-wrangling-missing-engagement-interpolation-179798c345ec)
